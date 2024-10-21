@@ -4,9 +4,9 @@ Este projeto é uma landing page desenvolvida para promover o novo filme do Supe
 
 ## Tecnologias Utilizadas
 
-***HTML5***: Para estruturar o conteúdo da página.
-***CSS3***: Para criar um layout responsivo e estilização visual da página.
-***JavaScript***: Para interatividade e controle do player de vídeo.
+- **HTML5**: Para estruturar o conteúdo da página.
+- **CSS3**: Para criar um layout responsivo e estilização visual da página.
+- **JavaScript**: Para interatividade e controle do player de vídeo.
 
 ## Funcionalidades
 
@@ -35,4 +35,4 @@ O design da landing page foi pensado para capturar a essência vibrante e divert
 
 ## Demonstração
 
-Você pode acessar a landing page online aqui: [text](https://rafaela-wolf.github.io/projeto-super-mario/)
+Você pode acessar a landing page online aqui: https://rafaela-wolf.github.io/projeto-super-mario/
