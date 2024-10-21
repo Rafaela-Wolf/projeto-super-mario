@@ -85,6 +85,7 @@ body {
 .container .informacoes .botao-trailer {
     background-color: #ff0021;
     border: none;
+    border-radius: 5px;
     padding: 15px;
     cursor: pointer;
     transition: 0.5s all ease-in-out;
